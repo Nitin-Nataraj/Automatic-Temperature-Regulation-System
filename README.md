@@ -1,1 +1,1 @@
-# Automatic-Temperature-Regulation-System
+# Automatic Temperature Regulation System
