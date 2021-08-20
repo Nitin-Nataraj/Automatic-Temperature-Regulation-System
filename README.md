@@ -1,4 +1,4 @@
-# Obstacle Avoidance Robot
+# Obstacle Avoiding Robot
 <!-- Project done as part of Course Work in 'Sensors and Instrumentation' by Nitin Nataraj , Tejeswar Ramachandran, Graham Frederick, Yaswant T -->
 <img src="https://user-images.githubusercontent.com/66175660/130223521-8e6ce69a-905e-4c1e-a349-aecc3505cd2e.png">
 
